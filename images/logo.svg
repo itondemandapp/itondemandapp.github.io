@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <clipPath id="clip-iPhone_round_logo">
+      <rect width="1024" height="1024"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_round_logo" data-name="iPhone round logo" clip-path="url(#clip-iPhone_round_logo)">
+    <path id="Path_1" data-name="Path 1" d="M130.56,0H893.44A130.56,130.56,0,0,1,1024,130.56V893.44A130.56,130.56,0,0,1,893.44,1024H130.56A130.56,130.56,0,0,1,0,893.44V130.56A130.56,130.56,0,0,1,130.56,0Z" fill="#202020"/>
+    <path id="Path_117" data-name="Path 117" d="M245.171-95.431h-100.4V215.454h-40.74V-95.431H3.884v-36.86H245.171ZM513.376,200.9q-38.558,20.37-96.03,20.37-74.205,0-118.825-47.773T253.9,48.129q0-83.42,50.2-134.83t127.313-51.41q49.47,0,81.965,14.307V-80.4q-37.345-20.855-82.45-20.855-59.9,0-97.121,40.012T296.581,45.7q0,63.535,34.8,101.244t91.3,37.709q52.38,0,90.7-23.28Z" transform="translate(246.699 501.346)" fill="#fff"/>
+  </g>
+</svg>
